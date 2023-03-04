@@ -1,1 +1,7 @@
 # RadioTalk_Download
+
+RadioTalkがサービス終了した際に、音声を一括ダウンロードできるサンプルコードです。
+GoogleColabを使用し、Googledriveに一括ダウンロードできるようになっています。
+ファイル名は直前のtitleタグから拾うようになっていますが、動作確認をしていません。
+!pip install requests
+!pip install beautifulsoup4
